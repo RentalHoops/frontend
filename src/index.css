@@ -8,6 +8,6 @@
     background-size: cover;
     background-position: top;
     position: relative;
-    background-image: url('../images/bg.jpg');
+    background-image: url('./assets//images/bg.jpg');
 
 }
