@@ -33,12 +33,11 @@ const Sidebar = () => {
 						<div className='mx-4 relative flex items-center text-center text-lg font-bold mt-8'>
 							<h1 className='text-center self-center text-xl'>RentalHoops</h1>
 						</div>
-						<hr className='text-xl'/>
+						<hr className='text-xl' />
 						<div className="mx-4 flex flex-col mt-10 text-md">
-							<Link to='/'>Home</Link>
-							<Link to='/'>Home</Link>
-							<Link to='/'>Home</Link>
-							<Link to='/'>Home</Link>
+							<Link to="/">Home</Link>
+							<Link to="/insights">Insights</Link>
+							<Link to="/contact-us" className=''>Reach Us Now</Link>
 						</div>
 					</div>
 				</>
