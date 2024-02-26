@@ -19,17 +19,6 @@ const Feature01 = () => {
 				<FeauturedProduct />
 				<FeauturedProduct />
 				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
-				<FeauturedProduct />
 			</div>
 
 		</div>

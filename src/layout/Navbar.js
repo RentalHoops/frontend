@@ -11,17 +11,20 @@ const Navbar = () => {
 				<div className='flex-1 flex flex-row text-xl 	gap-10 text-[#1E40AF]'>
 					<div>
 						<Link to='/' className='font-bold'>RentalHoops</Link>
+						<p className='text-[10px]'>Estates, Tours & Events</p>
 					</div>
 					
 				</div>
 				{/* right side */}
 				<div className='flex items-center justify-between gap-10 font-bold text-[#1E40AF]'>
 					<div className='hidden md:flex gap-10 items-center'>
-						<Link to="/">Home</Link>
-						<Link to="/insights">Insights</Link>
+						<Link to="/rentals">Rentals</Link>
+						<Link to="/insights">Tours</Link>
+						<Link to="/insights">Events</Link>
 						<Link to="/contact-us" className='border-2 border-[#1E40AF] px-4 p-1'>Reach Us Now</Link>
 					</div>
-					<h1 className='bg-[#1E40AF] text-white md:px-4 px-2 md:p-2 p-2 rounded-lg md:text-lg uppercase font-bold cursor-pointer'>Login</h1>
+					<div className='bg-[#1E40AF] text-white md:px-4 px-2 md:p-2 p-2 rounded-lg md:text-lg uppercase font-bold cursor-pointer'>
+						<Link to="/accounts">Login</Link></div>
 					<div className='flex md:hidden'>
 						{/* <BiMenu size={30}/> */}
 						<Sidebar />

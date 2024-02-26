@@ -9,8 +9,7 @@ import ContactAgent from '../components/home/ContactAgent'
 
 const Home = () => {
   return (
-	<div className='relative text-black mt-10  '>
-    {/* banner */}
+	<div className='relative text-black mt-10'>
     <BannerSection />
     <Service01 />
     <ChooseUs />

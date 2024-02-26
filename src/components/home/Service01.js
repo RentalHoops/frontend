@@ -23,12 +23,12 @@ const Service01 = () => {
 
 					</div>
 					<div className='flex flex-col text-xl'>
-					<p className=''> Best Quality </p>
-					<p> Garauntee</p>
+					<p className=''>Tour booking </p>
+					<p>software</p>
 					</div>
 				</div>
 				<div>
-					<p className='text-sm'>We provide various high quality types of houses from the cheapest premium</p>
+					<p className='text-sm'>More bookings, happier customers. Uganda's most advanced system for tours</p>
 				</div>
 			</div>
 			<div className='flex flex-col'>
@@ -37,26 +37,12 @@ const Service01 = () => {
 
 					</div>
 					<div className='flex flex-col text-xl'>
-					<p className=''> 100% Safe  </p>
-					<p> Transactions</p>
+					<p className=''> Event Web  </p>
+					<p> APP</p>
 					</div>
 				</div>
 				<div>
-					<p className='text-sm'>We provide various high quality types of houses from the cheapest premium</p>
-				</div>
-			</div>
-			<div className='flex flex-col'>
-				<div className='flex flex-row gap-4 w-1/'>
-					<div className='bg-blue-600 w-14 h-14 rounded-lg'>
-
-					</div>
-					<div className='flex flex-col text-xl'>
-					<p className=''> Low Costs  </p>
-					<p>on taxes</p>
-					</div>
-				</div>
-				<div>
-					<p className='text-sm'>We provide various high quality types of houses from the cheapest premium</p>
+					<p className='text-sm'>Event web app enables event attendees to experience the event from anywhere in the world</p>
 				</div>
 			</div>
 		</div>
